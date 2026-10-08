@@ -1,6 +1,6 @@
 # Hi, I'm Chrismastian Lolo Allo 👋
 
-**Fullstack Developer** — PHP / Laravel · JavaScript · MySQL
+**Fullstack Developer** — PHP / Laravel · React · MySQL
 
 I build web applications end to end: database schema, backend logic, and the UI on top.
 
@@ -12,12 +12,14 @@ I build web applications end to end: database schema, backend logic, and the UI 
 
 ### [TaskFlow — React + Laravel API](https://github.com/Chrismastian/task-frontend)
 
-A modern task-management app: token auth, CRUD tasks, status filters, and search.
+A modern task-management app: token auth, task CRUD, status filters, and search.
+
+[![TaskFlow dashboard](https://raw.githubusercontent.com/Chrismastian/task-frontend/main/docs/screenshots/dashboard.png)](https://task-frontend-ruddy-five.vercel.app)
 
 - **Frontend:** React 18 · Vite · Tailwind CSS · React Router · Axios
-- **Backend:** Laravel 10 · Sanctum · MySQL · PHPUnit
+- **Backend:** Laravel 10 · Sanctum · MySQL · PHPUnit (9 tests)
 - **Live demo:** https://task-frontend-ruddy-five.vercel.app
-- **API:** https://github.com/Chrismastian/task-api
+- **API repo:** https://github.com/Chrismastian/task-api
 
 ### [TechZone — Computer Accessories Store](https://github.com/Chrismastian/Aksesoris-Komputer)
 
