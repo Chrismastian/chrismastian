@@ -17,8 +17,8 @@ Tools: Git, Composer, npm
 
 Contact
 
-Email: chrismastian31327@email.com
-LinkedIn: linkedin.com/in/chrismastian
+Email: chrismastian31327@gmail.com
+Linkedin: linkedin.com/in/chrismastian
 
 Currently building a fullstack project
 
