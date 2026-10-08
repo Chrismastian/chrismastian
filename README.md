@@ -1,25 +1,42 @@
-Hi, I'm Chrismastian Lolo Allo
+# Hi, I'm Chrismastian Lolo Allo 👋
 
-Fullstack Developer
+**Fullstack Developer** — PHP / Laravel · JavaScript · MySQL
 
-Featured Projects
+I build web applications end to end: database schema, backend logic, and the UI on top.
 
-| Project               | Stack                        | Description                                 |
-|-----------------------|------------------------------|---------------------------------------------|
-| TechZone — E-Commerce | Laravel 10, MySQL, Bootstrap | Computer accessories store with admin panel |
+🎯 Open to remote fullstack opportunities.
 
-Tech Stack
+---
 
-Backend: PHP, Laravel, REST API
-Frontend: HTML, CSS, JavaScript, Bootstrap
-Database: MySQL
-Tools: Git, Composer, npm
+## 🚀 Featured Project
 
-Contact
+### [TechZone — Computer Accessories Store](https://github.com/Chrismastian/Aksesoris-Komputer)
 
-Email: chrismastian31327@gmail.com
-Linkedin: linkedin.com/in/chrismastian
+A Laravel e-commerce app with a public storefront and an authenticated admin panel.
 
-Currently building a fullstack project
+| | |
+|---|---|
+| **Stack** | Laravel 10 · PHP 8.3 · MySQL · Blade · Bootstrap 5 |
+| **Storefront** | Category browsing, search, product pages, session cart, checkout with server-side validation, order confirmation |
+| **Admin** | Auth-protected dashboard, order status workflow, product CRUD |
+| **Quality** | PHPUnit feature tests, incl. a test proving checkout re-reads prices from the DB instead of trusting the client |
 
-Stay tuned.
+---
+
+## 🛠 Tech Stack
+
+- **Backend:** PHP, Laravel, REST APIs, Composer
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap, Tailwind
+- **Database:** MySQL
+- **Tooling:** Git, GitHub, Vite, PHPUnit
+
+---
+
+## 📫 Contact
+
+- 📧 [chrismastian31327@gmail.com](mailto:chrismastian31327@gmail.com)
+- 💼 [linkedin.com/in/chrismastian](https://linkedin.com/in/chrismastian)
+
+---
+
+*Currently building a fullstack project with a modern JS frontend. Stay tuned.*
