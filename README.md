@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi, I'm Chrismastian Lolo Allo
 
-<!--
-**Chrismastian/chrismastian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack Developer
 
-Here are some ideas to get you started:
+Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project               | Stack                        | Description                                 |
+|-----------------------|------------------------------|---------------------------------------------|
+| TechZone — E-Commerce | Laravel 10, MySQL, Bootstrap | Computer accessories store with admin panel |
+
+Tech Stack
+
+Backend: PHP, Laravel, REST API
+Frontend: HTML, CSS, JavaScript, Bootstrap
+Database: MySQL
+Tools: Git, Composer, npm
+
+Contact
+
+Email: chrismastian31327@email.com
+LinkedIn: linkedin.com/in/chrismastian
+
+Currently building a fullstack project
+
+Stay tuned.
