@@ -14,12 +14,14 @@ I build web applications end to end: database schema, backend logic, and the UI 
 
 A Laravel e-commerce app with a public storefront and an authenticated admin panel.
 
+**[▶ Live demo](https://aksesoris-komputer-production.up.railway.app)** · Login: `admin@aksesoris.test` / `password`
+
 | | |
 |---|---|
 | **Stack** | Laravel 10 · PHP 8.3 · MySQL · Blade · Bootstrap 5 |
 | **Storefront** | Category browsing, search, product pages, session cart, checkout with server-side validation, order confirmation |
 | **Admin** | Auth-protected dashboard, order status workflow, product CRUD |
-| **Quality** | PHPUnit feature tests, incl. a test proving checkout re-reads prices from the DB instead of trusting the client |
+| **Quality** | 20 PHPUnit feature tests + GitHub Actions CI |
 
 ---
 
