@@ -16,8 +16,8 @@ A modern task-management app: token auth, task CRUD, status filters, and search.
 
 [![TaskFlow dashboard](https://raw.githubusercontent.com/Chrismastian/task-frontend/main/docs/screenshots/dashboard.png)](https://task-frontend-ruddy-five.vercel.app)
 
-- **Frontend:** React 18 · Vite · Tailwind CSS · React Router · Axios
-- **Backend:** Laravel 10 · Sanctum · MySQL · PHPUnit (9 tests)
+- **Frontend:** React 19 · Vite · Tailwind CSS · React Router · Axios
+- **Backend:** Laravel 10 · Sanctum · MySQL · PHPUnit (10 tests)
 - **Live demo:** https://task-frontend-ruddy-five.vercel.app
 - **API repo:** https://github.com/Chrismastian/task-api
 
@@ -29,7 +29,7 @@ A Laravel e-commerce app with a public storefront and an authenticated admin pan
 - **Storefront:** Category browsing, search, product pages, session cart, checkout
 - **Admin:** Auth-protected dashboard, order workflow, product CRUD
 - **Live demo:** https://aksesoris-komputer-production.up.railway.app · Login: `admin@aksesoris.test` / `password`
-- **Quality:** 20 PHPUnit feature tests + GitHub Actions CI
+- **Quality:** 20 PHPUnit tests + GitHub Actions CI
 
 ---
 
@@ -44,7 +44,7 @@ A Laravel e-commerce app with a public storefront and an authenticated admin pan
 
 ## 📫 Contact
 
-- 📧 [chrismastian31327@gmail.com](mailto:chrismastian31327@gmail.com)
+- 📧 [chrismastianloloallo31327@gmail.com](mailto:chrismastianloloallo31327@gmail.com)
 - 💼 [linkedin.com/in/chrismastian](https://linkedin.com/in/chrismastian)
 
 ---
